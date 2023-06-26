@@ -44,8 +44,7 @@ A API pode resolver 8 tipos de cálculos:
 
 As variáveis acima podem ser calculadas individualmente, ou então usar `TODAS` para retornar todos os cálculos de uma só vez.
 
-* parameter: **api/**
-* method: **post**
+* metodo: **post**
 * payload
 
 ```json
@@ -56,7 +55,7 @@ As variáveis acima podem ser calculadas individualmente, ou então usar `TODAS`
     }
 ```
 
-* success
+* sucesso
 
 ```json
     {
@@ -69,7 +68,7 @@ As variáveis acima podem ser calculadas individualmente, ou então usar `TODAS`
     }
 ```
 
-* warnings
+* avisos/erros
 
   ```json
   {"message": "Payload incorreto"}
@@ -78,7 +77,7 @@ As variáveis acima podem ser calculadas individualmente, ou então usar `TODAS`
   {"message": "Número de argumentos inválidos (esperados três)"}
   ```
 
-# Versão Demo (online)
+## Versão Demo (online)
 
 * URI: [https://mm1solver-api.edsonmelo.com.br/api/](https://mm1solver-api.edsonmelo.com.br/api/)
 
@@ -86,7 +85,7 @@ As variáveis acima podem ser calculadas individualmente, ou então usar `TODAS`
 
 ## Como citar este conteúdo
 
-```
+```text
 DE SOUZA, Edson Melo (2023, June 26). PHP API MM1Solver v.1.0.
 Disponível em: https://github.com/EdsonMSouza/MM1Solver
 ```
