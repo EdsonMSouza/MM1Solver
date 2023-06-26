@@ -1,4 +1,5 @@
-# MM1Solver - API para resolução de exercícios sobre Filas M/M/1
+# MM1Solver V.1.0
+## API para resolução de exercícios sobre Filas M/M/1
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
