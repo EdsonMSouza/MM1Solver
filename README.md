@@ -26,11 +26,11 @@ Mudanças devem ser atualizadas via <code>composer dump-autoload -o</code> no am
 
 ## Domínio
 
-O `domínio` variable must be filled with the address where the API will be made available like: (<code>https://**domain**/api/{resource}/{parameter}</code>)
+O `domínio` deve ser substituído pelo endereço online: (<code>https://**dominio**/api/</code>)
 
 ### Recursos da API (exemplo)
 
-A API pode resolver 8 tipos de variáveis:
+A API pode resolver 8 tipos de cálculos:
 
 * TempoMedioEntreChegadas
 * TempoMedioAtendimento
